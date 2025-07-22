@@ -1,6 +1,15 @@
 # Space-Tetris
 Made with raylib
 
+# how to play :
+
+  - Up arrow key for rotating the pieces
+  - down arrow key for faster landing
+  - left arrow to move the piece left
+  - right arrow to move the piece right
+  - Space bar will restart the game if player loses
+
+
 **When downloading, open terminal and use these commands to run and compile the game (how to open on a macOS):**
 clang++ main.cpp game.cpp graphics.cpp -o SpaceTetris -lraylib -framework OpenGL -framework Cocoa
 -framework IOKit -framework CoreAudio -framework CoreVideo -pthread -std=c++17
