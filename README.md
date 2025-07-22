@@ -1,14 +1,14 @@
 # Space-Tetris
 Made with raylib
 
-When downloading, open terminal and use these commands to run and compile the game (how to open on a macOS):
+**When downloading, open terminal and use these commands to run and compile the game (how to open on a macOS):**
 clang++ main.cpp game.cpp graphics.cpp -o SpaceTetris -lraylib -framework OpenGL -framework Cocoa
 -framework IOKit -framework CoreAudio -framework CoreVideo -pthread -std=c++17
-then, run:
+**then, run:**
 ./SpaceTetris
 
 
-Windows OS:
+**Windows OS:**
 g++ main.cpp game.cpp graphics.cpp -o SpaceTetris.exe -lraylib -lopengl32 -lgdi32 -lwinmm
 ./SpaceTetris.exe
 
