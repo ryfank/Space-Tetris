@@ -14,4 +14,5 @@ just copy and paste those command in terminal.
 
 # Game Preview
 
-![Alt Text](https://github.com/user-attachments/assets/deb23062-61e9-4dfa-b590-96736dff1240)
+![Alt Text](https://github.com/user-attachments/assets/a519c5e7-ef65-4e54-a5a3-66d4cfb57df6)
+
